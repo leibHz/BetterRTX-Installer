@@ -1,44 +1,27 @@
-# Better RTX Installer
+# Better RTX Installer FORK
 
-### Prerequisites
+a fork of the GUI version of the 
+better RTX installer, with some 
+features such as:
 
-- Use software like
-  [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) or
-  [Bedrock Launcher](https://github.com/BedrockLauncher/BedrockLauncher) to
-  easily create a side-loaded Minecraft installation.
-- **OR** download [IOBit Unlocker](https://www.iobit.com/en/iobit-unlocker.php)
-  to allow copying to Minecraft Launcher/Windows Store installations.
+## full support for the bedrock launcher
+you can install automatically in
+any version of the bedrock launcher
 
-## Launch Installer GUI
-Copy and paste the following line into a command terminal to start the installer. _(English version)_
+## dark mode implemented
+it will detect if the dark mode is 
+enabled on your system and will 
+automatically adapt to it
 
-```
-powershell -c "iwr https://bedrock.graphics/installer -useb | iex"
-```
+## And much more
 
-## Translations
-
-With help from several [contributors](https://github.com/BetterRTX/BetterRTX-Installer/graphs/contributors), the installer interface has been translated into [multiple languages](https://github.com/BetterRTX/BetterRTX-Installer/tree/prerelease/v2/Localized).
-
-Enter this command in a __64-bit PowerShell__ terminal to launch the installer in your preferred language (if available).
-
-```powershell
-iwr https://bedrock.graphics/installer/v2/$PsUICulture | iex
-```
-
----
-
-## Help
+# All credits to the original creators of betterRTX
 
 ![Discord](https://img.shields.io/discord/691547840463241267?style=flat-square&logo=discord&logoColor=%23ffffff&label=Minecraft%20RTX%20Discord)
 
-Join the
 [Minecraft RTX Discord](https://discord.com/invite/minecraft-rtx)
-or
-[open an Issue on GitHub](https://github.com/BetterRTX/BetterRTX-Installer/issues)
-for additional help.
 
-[Read the Wiki](https://github.com/BetterRTX/BetterRTX-Installer/wiki) for more details and instructions.
+### If you find a bug, open an issue on GitHub in this repository.
 
 ---
 

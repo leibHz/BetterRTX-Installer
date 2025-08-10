@@ -23,6 +23,10 @@ automatically adapt to it
 
 ### If you find a bug, open an issue on GitHub in this repository.
 
+## Download the file and run it LOCALLY!
+executing it with the irm command can cause errors
+
+
 ---
 
 **[Credits](CREDITS.md) | [Contribute](CONTRIBUTING.md) | [Code of Conduct](CODE_OF_CONDUCT.md) | [Changelogs](CHANGELOGS.md) | [Security Policy](SECURITY.md)**

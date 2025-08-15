@@ -29,7 +29,7 @@ executing it with the irm command can cause errors
 
 ---
 
-**[Credits](CREDITS.md) | [Contribute](CONTRIBUTING.md) | [Code of Conduct](CODE_OF_CONDUCT.md) | [Changelogs](CHANGELOGS.md) | [Security Policy](SECURITY.md)**
+**[Credits](CREDITS.md) | [Contribute](CONTRIBUTING.md) | [Code of Conduct](CODE_OF_CONDUCT.md) | [Security Policy](SECURITY.md)**
 
 Licensed under a [GNU GENERAL PUBLIC LICENSE](LICENSE.md)
 
